@@ -41,9 +41,6 @@ For this example the motive **jobs** is chosen for the following departements : 
 <br>
 <br>
 
-# Conclusion
-This interface is a WIP.
-There is still room for improvement, such as: 
 
 # Support
 * [https://www.data.gouv.fr/fr/datasets/departements-de-france/](https://www.data.gouv.fr/fr/datasets/departements-de-france/)
