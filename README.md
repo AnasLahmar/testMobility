@@ -52,3 +52,8 @@ There is still room for improvement, such as:
 # License
 This project is licensed.
 # Authors
+* Anas Lahmar
+* Ayoub Foundou
+* Charle Pequign﻿ot
+* Lyes Kaya 
+* Zakariaa El Mhassani
